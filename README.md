@@ -1,4 +1,4 @@
-![tZ04L2Wi_4x](https://user-images.githubusercontent.com/87930640/148874408-f4a75dff-9aff-4e6c-a356-5cea7b24060f.jpg)
+![FYV6mnXl_4x](https://user-images.githubusercontent.com/87930640/148888729-3562933b-c696-4b40-a989-80f91e2513cf.jpg)
 
 ### Hi there 👋
 
