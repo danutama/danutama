@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
-I'm Danu A. Pratama, junior Front-End Developer. I'm based in Jakarta, Indonesia. Visit my portfolio only at https://danuapratama.github.io
+I'm Danu A. Pratama, junior Front-End Developer, based in Jakarta - Indonesia. I'm interested in technology, especially when it comes to web development. Always ready to learn more 💻
 
-Let's connect with me
+I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 💫
+
+How to reach me? Visit my portfolio at the following link - https://danuapratama.github.io 💼
+
+Let's connect with me ✋
