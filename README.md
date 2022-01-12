@@ -6,6 +6,6 @@ I'm Danu A. Pratama, junior Front-End Developer based in Jakarta - Indonesia. I'
 
 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 💫
 
-How to reach me? [email](mailto:danuaguspratama98@gmail.com), [telegram](https://t.me/danu_pratama), or visit [my portfolio](https://danuapratama.github.io) 💼
+How to reach me? [danupratama.dev@gmail.com](mailto:danupratama.dev@gmail.com), [telegram](https://t.me/danu_pratama), or visit [my portfolio](https://danuapratama.github.io) 💼
 
 Let's connect with me 👋
