@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Danu A. Pratama, junior Front-end Developer based in Jakarta - Indonesia. I'm interested in technology, especially when it comes to web development and always ready to learn more.
+I'm Danu A. Pratama, junior Front-end Developer based in Jakarta - Indonesia. I'm interested in programming, especially when it comes to web development and always ready to learn more.
 
 💻 I'm currently learning Javascript
 
@@ -18,4 +18,4 @@ I'm Danu A. Pratama, junior Front-end Developer based in Jakarta - Indonesia. I'
 
 Let's connect with me 👋
 
-Happy coding 🎉
+Happy coding ✨
