@@ -1,6 +1,8 @@
 ![uMRV0OwX_4x](https://user-images.githubusercontent.com/87930640/149263717-e8e06466-b0b1-427f-bbbd-66fc02452637.jpg)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danuapratama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danuapratama&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danuapratama&layout=compact)](https://github.com/danuapratama/github-readme-stats)
 
 ### Hi there 👋
 
