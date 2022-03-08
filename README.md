@@ -1,6 +1,5 @@
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danuapratama&layout=compact)](https://github.com/danuapratama/github-readme-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danuapratama&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danuapratama&theme=buefy&show_icons=true&border_color=#8d5cff&&count_private=true&include_all_commits=true" />
 
 ### Hi there 👋
 
