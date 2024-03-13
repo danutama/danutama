@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am Danu Pratama, a junior web developer based in Jakarta, Indonesia. I'm interested in programming and have been learning it since 2021, particularly in the field of web development. I am always eager to expand my knowledge and skills.
+I'm Danu Pratama, a trainee web developer based in Jakarta, Indonesia, with a passion for programming. Since 2021, I've been immersed in the world of web development, constantly expanding my knowledge and skills in this field. I'm always eager to learn and grow.
 
 🚀 I am looking forward to collaborating on amazing projects in the future and being a part of an incredible team.
 
