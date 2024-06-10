@@ -9,7 +9,7 @@ I'm Danu Pratama, a trainee web developer based in Jakarta, Indonesia, with a pa
 
 📬 How to reach me? 
 
-[![Website Badge](https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=website&logoColor=white)](https://danutama.github.io)  [![Email Badge](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danupratama.dev@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=website&logoColor=white)](https://danutama.github.io)  [![Email Badge](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danupratama.dev@gmail.com)
 
 Let's connect with me 👋
 
