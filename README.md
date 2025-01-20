@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-I'm Danu Pratama, a trainee web developer based in Jakarta, Indonesia, with a passion for programming. Since 2021, I've been immersed in the world of web development, constantly expanding my knowledge and skills in this field. I'm always eager to learn and grow.
+My name is Danu Pratama. I'm a web programmer, working on projects ranging from small to medium scale. I focus on creating visually appealing, responsive, and well-functioning web interfaces. Additionally, I'm capable of building complete web applications with both frontend and backend development.
 
-🚀 I am looking forward to collaborating on amazing projects in the future and being a part of an incredible team.
+🚀 I'm looking forward to collaborating on amazing projects in the future and being a part of an incredible team.
 
 📬 How to reach me? 
 
