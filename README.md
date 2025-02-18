@@ -5,12 +5,8 @@
 
 I'm Danu Pratama, a web programmer. I specialize in creating visually appealing and user-friendly web interfaces that align with business goals. In addition, I have experience in developing full-stack web applications, handling both frontend and backend development.  
 
-🚀 I'm always open to collaborating on exciting projects and contributing to a great team!
+I'm always open to collaborating on exciting projects and contributing to a great team!
 
-📬 How to reach me? 
-
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=website&logoColor=white)](https://danutama.github.io)  [![Email Badge](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danupratama.dev@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=website&logoColor=white)](https://danutama.github.io)  [![Email Badge](https://img.shields.io/badge/Email-0496FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danupratama.dev@gmail.com)
 
 Let's connect and collaborate 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=danutama&label=Profile%20views&color=0496FF&style=flat)
