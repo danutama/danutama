@@ -1,5 +1,8 @@
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danutama&layout=compact)](https://github.com/danutama/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danutama&theme=buefy&show_icons=true&hide=contribs&hide_rank=true" />
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=danutama&theme=buefy&show_icons=true&hide=contribs,commits&hide_rank=true"
+/>
 ### Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -13,7 +16,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -23,10 +28,12 @@
 
 ### Hi there 👋
 
-I'm Danu Pratama, a web programmer. I specialize in creating visually appealing and user-friendly web interfaces that align with business goals. In addition, I have experience in developing full-stack web applications, handling both frontend and backend development.  
+I'm Danu Pratama, a web developer who combines creativity, technology, and attention to detail to build web applications that are not only smooth in performance but also clean and timeless in design.
+
+I have experience developing complete web applications from frontend to backend, and I’m committed to delivering reliable digital solutions that meet each project's goals.
 
 I'm always open to collaborating on exciting projects and contributing to a great team!
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=website&logoColor=white)](https://danutama.github.io)  [![Email Badge](https://img.shields.io/badge/Email-0496FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danupratama.dev@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=website&logoColor=white)](https://danu.is-a.dev)  [![Email Badge](https://img.shields.io/badge/Email-0496FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danupratama.dev@gmail.com)
 
 Let's connect and collaborate 👋
